@@ -1,0 +1,3 @@
+﻿  OS2.cpp
+D:\Download\!Pomoika\OS2.cpp(69,89): warning C4018: '>=': signed/unsigned mismatch
+  OS2.vcxproj -> D:\Projects\Programming\OS2\Debug\OS2.exe
